@@ -1,2 +1,13 @@
 optConfig:
   optOutStrategy: true
+  optOutRepos:
+  - com-pas.github.io
+  - compas-template-service 
+  - cross-framework-web-components
+  - .github
+  - compas-plugin-template
+  - .community
+  - .allstar
+  - compas-developers
+  - contributing
+  - compas-architecture
